@@ -1,6 +1,6 @@
 {
   "name": "thriftrw",
-  "version": "3.5.0",
+  "version": "3.5.1",
   "description": "thrift encoding/decoding using bufrw",
   "keywords": [],
   "author": "Lei Zhao <leizha@uber.com>",
@@ -43,7 +43,7 @@
     }
   ],
   "bin": {
-      "thrift2json": "./thrift2json.js"
+    "thrift2json": "./thrift2json.js"
   },
   "scripts": {
     "add-licence": "uber-licence",
