@@ -1,4 +1,4 @@
-# vNEXT // FIXME
+# v3.10.0
 
 - Allow undefined to be default value rather than null
 - (c) 2017 (#146)
